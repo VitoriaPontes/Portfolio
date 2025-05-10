@@ -26,7 +26,7 @@ Sou apaixonada por dados, aprendizado de máquina e soluções que combinam esta
 Estou aberta a oportunidades em Ciência de Dados, Análise de Dados e áreas correlatas. Vamos conversar?
 
 📧 **Email:** vitoriapontes044@email.com  
-🔗 **LinkedIn:** (www.linkedin.com/in/vitoria--pontes)
+🔗 **LinkedIn:** www.linkedin.com/in/vitoria--pontes
 
 ---
 
