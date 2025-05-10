@@ -4,7 +4,7 @@ Sou apaixonada por dados, aprendizado de máquina e soluções que combinam esta
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** Python, SQL
 - **Bibliotecas:** Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, pgmpy
