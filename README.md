@@ -17,7 +17,7 @@ Sou apaixonada por dados, aprendizado de máquina e soluções que combinam esta
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🔗 Predição de Notas de K-Dramas](https://github.com/VitoriaPontes/KDramaRating) | Modelo de ML para prever avaliação média de doramas coreanos com análise estatística. | Python, Scikit-learn, pgmpy |
+| [🔗 Predição de Notas de K-Dramas](https://github.com/VitoriaPontes/KDramaRating) | Este projeto explora a predição da nota média de K-Dramas a partir de dados obtidos no MyDramaList. Foram aplicadas técnicas de aprendizado supervisionado (como Random Forest, XGBoost e Redes Neurais) para modelar a percepção do público com base em atributos como gêneros, elenco principal, número de episódios e duração. O projeto combina análise exploratória, engenharia de atributos e ajuste de hiperparâmetros para alcançar melhores previsões. | Python, Scikit-learn, pgmpy |
 
 ---
 
